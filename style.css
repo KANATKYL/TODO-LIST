@@ -1,0 +1,70 @@
+body {
+   background: rgb(168, 226, 221);
+}
+
+.qqq {
+    width: 40%;
+    height: 600px;
+    margin: 50px auto 0;
+    background-color: #fff;
+    color: white;
+    box-shadow: 0px 0px 20px #000;
+
+}
+.card {
+    padding-left: 100px;
+    color: rgb(149, 84, 209);
+}
+
+button {
+    background: white;
+    border: none;
+    color: black;
+    width: 100px;
+    height: 23px;
+}
+h1 {
+    color: #fff;
+    background-color: rgb(149, 84, 209);
+    text-align: center;
+    height: 50px;
+    width: 100%;
+    margin-top: 0;
+    padding-top: 10px;
+}
+input {
+    height: 35px;
+    width: 300px;
+    border: 1px solid #000;
+    font-size: 15px;
+}
+#addtask {
+    height: 45px;
+    border: none;
+    border-radius: 25px;
+    margin-left: 30px;
+    width: 150px;
+    background-color:rgb(149, 84, 209);
+}
+.addtask:hover {
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+#inputText {
+    margin-left: 20px;
+    border-radius: 10px;
+    background-color:rgb(149, 84, 209);
+    color: white;
+
+}
+h2 {
+    color: rgb(149, 84, 209);
+}
+
+.done {
+    width: 15px;
+    height: 15px;
+    position: absolute;
+    margin-top: -40px;
+    margin-left: -50px;
+}
